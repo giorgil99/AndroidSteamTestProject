@@ -1,0 +1,1 @@
+{"uuid":"81102d8c-e1cd-4e3a-97e4-064edf360e75","name":"homeScreenTestSuit","children":["ca14b6a6-b201-43f5-beca-66a3a0e62fae"],"befores":[{"name":"mobileRunner","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1668057668129,"stop":1668057679567}],"afters":[],"start":1668057668110,"stop":1668057697618}

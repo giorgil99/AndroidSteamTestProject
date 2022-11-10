@@ -1,0 +1,1 @@
+{"uuid":"f5efe789-466e-4b48-acb9-be0cfe2a4f5f","name":"Default Suite","children":["797f33a7-2494-46ba-bbeb-5a7bbdba117c"],"befores":[{"name":"mobileRunner","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1668104309773,"stop":1668104322317}],"afters":[],"start":1668104309747,"stop":1668104322578}
